@@ -1,6 +1,10 @@
-# InferenceEngine
-------------------
+InferenceEngine
+=====================
+
+Project by : Clancy & Paul
 
 
-
-Assignment 2, Intro to AI
+##Readme Contents
+1. Project Outline
+2. Contributing
+3. etc..
