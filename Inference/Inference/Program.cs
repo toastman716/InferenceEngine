@@ -11,7 +11,7 @@ namespace Inference
         static void Main(string[] args)
         {
             Console.WriteLine("Hi, Inference Engine crack on");
-
+            Console.WriteLine("Paul was here");
 
             Console.ReadLine();
         }

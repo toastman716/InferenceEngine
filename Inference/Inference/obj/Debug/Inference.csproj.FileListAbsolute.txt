@@ -3,3 +3,9 @@ C:\Users\ClankWarrior\Documents\Visual Studio 2017\Projects\InferenceEngine\Infe
 C:\Users\ClankWarrior\Documents\Visual Studio 2017\Projects\InferenceEngine\Inference\Inference\bin\Debug\Inference.pdb
 C:\Users\ClankWarrior\Documents\Visual Studio 2017\Projects\InferenceEngine\Inference\Inference\obj\Debug\Inference.exe
 C:\Users\ClankWarrior\Documents\Visual Studio 2017\Projects\InferenceEngine\Inference\Inference\obj\Debug\Inference.pdb
+C:\Users\Owner\Source\Repos\InferenceEngine\Inference\Inference\bin\Debug\Inference.exe.config
+C:\Users\Owner\Source\Repos\InferenceEngine\Inference\Inference\obj\Debug\Inference.exe
+C:\Users\Owner\Source\Repos\InferenceEngine\Inference\Inference\obj\Debug\Inference.pdb
+C:\Users\Owner\Source\Repos\InferenceEngine\Inference\Inference\bin\Debug\Inference.exe
+C:\Users\Owner\Source\Repos\InferenceEngine\Inference\Inference\bin\Debug\Inference.pdb
+C:\Users\Owner\Source\Repos\InferenceEngine\Inference\Inference\obj\Debug\Inference.csprojResolveAssemblyReference.cache
